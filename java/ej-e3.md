@@ -1,6 +1,6 @@
 # Effective Java Third edition
 
-![](images/ej-e3.jpg)
+<img src="images/ej-e3.jpg"  width="210" />
 
 ```
 Chapter 2 Creating and Destroying Objects

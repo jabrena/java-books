@@ -1,6 +1,6 @@
 # Effective Java Second edition
 
-![](images/ej-e2.jpg)
+<img src="images/ej-e2.jpg"  width="213" />
 
 ````
 Chapter 2 Creating and Destroying Objects.
