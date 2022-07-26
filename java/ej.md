@@ -1,5 +1,7 @@
 # Effective Java
 
-[![](images/ej-e1.jpg)](ej-e1.md)
-[![](images/ej-e2.jpg)](ej-e2.md)
-[![](images/ej-e3.jpg)](ej-e3.md)
+[<img src="images/ej-e1.jpg"  width="100" />](ej-e1.md)
+[<img src="images/ej-e2.jpg"  width="113" />](ej-e2.md)
+[<img src="images/ej-e3.jpg"  width="110" />](ej-e3.md)
+
+
