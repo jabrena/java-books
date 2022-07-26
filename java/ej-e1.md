@@ -2,7 +2,7 @@
 
 ![](images/ej-e1.jpg)
 
-````
+```
 Chapter 2 Creating and Destroying Objects
 Item 1: Consider providing static factory methods instead of constructors
 Item 2: Enforce the singleton property with a private constructor
@@ -54,16 +54,15 @@ Item 37: Optimize judiciously
 Item 38: Adhere to generally accepted naming conventions
 
 Chapter 8 Exceptions
-Item 39:Use exceptions only for exceptional conditions
-Item 40:Use checked exceptions for recoverable conditions and run-time exceptions
-for programming errors
-Item 41:Avoid unnecessary use of checked exceptions
-Item 42:Favor the use of standard exceptions
+Item 39: Use exceptions only for exceptional conditions
+Item 40: Use checked exceptions for recoverable conditions and run-time exceptions for programming errors
+Item 41: Avoid unnecessary use of checked exceptions
+Item 42: Favor the use of standard exceptions
 Item 43: Throw exceptions appropriate to the abstraction
-Item 44:Document all exceptions thrown by each method
-Item 45:Include failure-capture information in detail messages
-Item 46:Strive for </vetbfailure atomicity
-Item 47:Don't ignore exceptions
+Item 44: Document all exceptions thrown by each method
+Item 45: Include failure-capture information in detail messages
+Item 46: Strive for </vetbfailure atomicity
+Item 47: Don't ignore exceptions
 
 Chapter 9 Threads
 Item 48: Synchronize access to shared mutable data
