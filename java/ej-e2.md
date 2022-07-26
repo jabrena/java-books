@@ -3,7 +3,7 @@
 ![](images/ej-e2.jpg)
 
 ````
-2 Creating and Destroying Objects.
+Chapter 2 Creating and Destroying Objects.
 Item 1: Consider static factory methods instead of constructors
 Item 2: Consider a builder when faced with many constructor parameters 
 Item 3: Enforce the singleton property with a private constructor or an enum type 
@@ -12,14 +12,14 @@ Item 5: Avoid creating unnecessary objects
 Item 6: Eliminate obsolete object references 
 Item 7: Avoid finalizers 
 
-3 Methods Common to All Objects.
+Chapter 3 Methods Common to All Objects.
 Item 8: Obey the general contract when overriding equals 
 Item 9: Always override hashCode when you override equals
 Item 10: Always override toString 
 Item 11: Override clone judiciously 
 Item 12: Consider implementing Comparable 
 
-4 Classes and Interfaces.
+Chapter 4 Classes and Interfaces.
 Item 13: Minimize the accessibility of classes and members 
 Item 14: In public classes, use accessor methods, not public fields
 Item 15: Minimize mutability 
@@ -31,7 +31,7 @@ Item 20: Prefer class hierarchies to tagged classes
 Item 21: Use function objects to represent strategies 
 Item 22: Favor static member classes over nonstatic 
 
-5 Generics.
+Chapter 5 Generics.
 Item 23: Don’t use raw types in new code 
 Item 24: Eliminate unchecked warnings
 Item 25: Prefer lists to arrays 
@@ -40,7 +40,7 @@ Item 27: Favor generic methods
 Item 28: Use bounded wildcards to increase API flexibility 
 Item 29: Consider typesafe heterogeneous containers 
 
-6 Enums and Annotations.
+Chapter 6 Enums and Annotations.
 Item 30: Use enums instead of int constants
 Item 31: Use instance fields instead of ordinals 
 Item 32: Use EnumSet instead of bit fields 
@@ -50,7 +50,7 @@ Item 35: Prefer annotations to naming patterns
 Item 36: Consistently use the Override annotation
 Item 37: Use marker interfaces to define types 
 
-7 Methods.
+Chapter 7 Methods.
 Item 38: Check parameters for validity 
 Item 39: Make defensive copies when needed 
 Item 40: Design method signatures carefully 
@@ -59,7 +59,7 @@ Item 42: Use varargs judiciously
 Item 43: Return empty arrays or collections, not nulls 
 Item 44: Write doc comments for all exposed API elements 
 
-8 General Programming.
+Chapter 8 General Programming.
 Item 45: Minimize the scope of local variables 
 Item 46: Prefer for-each loops to traditional for loops 
 Item 47: Know and use the libraries 
@@ -73,7 +73,7 @@ Item 54: Use native methods judiciously
 Item 55: Optimize judiciously 
 Item 56: Adhere to generally accepted naming conventions 
 
-9 Exceptions.
+Chapter 9 Exceptions.
 Item 57: Use exceptions only for exceptional conditions 
 Item 58: Use checked exceptions for recoverable conditions and runtime exceptions for programming errors 
 Item 59: Avoid unnecessary use of checked exceptions 
@@ -84,7 +84,7 @@ Item 63: Include failure-capture information in detail messages
 Item 64: Strive for failure atomicity 
 Item 65: Don’t ignore exceptions 
 
-10 Concurrency.
+Chapter 10 Concurrency.
 Item 66: Synchronize access to shared mutable data
 Item 67: Avoid excessive synchronization 
 Item 68: Prefer executors and tasks to threads
@@ -94,7 +94,7 @@ Item 71: Use lazy initialization judiciously
 Item 72: Don’t depend on the thread scheduler 
 Item 73: Avoid thread groups 
 
-11 Serialization.
+Chapter 11 Serialization.
 Item 74: Implement Serializable judiciously
 Item 75: Consider using a custom serialized form 
 Item 76: Write readObject methods defensively 
